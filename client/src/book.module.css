@@ -1,0 +1,22 @@
+.recap{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+
+  .formbtns{
+    display: flex;
+    align-items: center;
+  }
+
+  .formbtns button{
+    margin: .4rem;
+  }
+
+  
